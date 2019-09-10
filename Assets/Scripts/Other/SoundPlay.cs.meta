@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26e93a61802a0b4409d40db850729489
+timeCreated: 1495632684
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundMusic: {fileID: 8300000, guid: 45917b998104b3843961f0c707fba5fb, type: 3}
+  - tangramMusic: {fileID: 8300000, guid: 4d2e6bed0105842439b7dabdbe5a69f2, type: 3}
+  - moveSound: {fileID: 8300000, guid: e642375328b1e8444984a4fb8da64959, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
